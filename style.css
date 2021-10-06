@@ -1,0 +1,72 @@
+body{
+    font-family: Verdana, sans-serif;
+}
+
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 25px;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.color-highlight{
+    color: rgb(194, 63, 155);
+}
+.half-width{
+    float: left;
+    margin: 5px;
+    padding: 2px;
+    inline-size: 400px;
+}
+.pic img{
+    height: 400px;
+    width: 100%;
+}
+
+.pic2 img{
+    height: 450px;
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: deeppink;
+    color: white;
+    padding: 10px 20px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.intro{
+    background-repeat: no-repeat;
+    background-image: url(images/header-bg.png);
+    background-size: contain;
+}
+.biography{
+    background-repeat: no-repeat;
+    background-image: url(images/biography-bg.png);
+    background-size: contain;
+}
+.bio-text{
+    margin-left: 50px;
+}
+.latest-work{
+    background-repeat: no-repeat;
+    background-image: url(images/latest-work-bg.png);
+    background-size: contain;
+}
+.third-width{
+    float: left;
+    margin: 5px;
+    padding: 2px;
+    inline-size: 400px;
+}
+.third-width img{
+    height: 400px;
+}
+.latest-work h3{
+    text-align: center;
+}
