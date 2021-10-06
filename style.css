@@ -65,8 +65,26 @@ section{
     inline-size: 400px;
 }
 .third-width img{
-    height: 400px;
+    height: 300px;
 }
 .latest-work h3{
     text-align: center;
+}
+.client-talk{
+    text-align: center;
+}
+.client-section{
+    margin: 10%;
+
+}
+
+footer p{
+    text-align: center;
+}
+#pink-msg{
+    border: white;
+    color: white;
+    background-color: rgb(207, 97, 189);
+    border-radius: 10px;
+    padding: 10px 30px;
 }
